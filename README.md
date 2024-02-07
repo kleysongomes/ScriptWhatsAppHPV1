@@ -1,10 +1,10 @@
 # ScriptWhatsAppHP V1 
 
-Código para enviar o Script inteiro de Harry Potter e a Pedra Filosofal para seus amigos ou grupos do WhatsApp
+Código para enviar o Script inteiro de Harry Potter para seus amigos ou grupos do WhatsApp
 
 ## Utilização
 
-Abra [shrekSendScriptV2-br.js](https://github.com/alestanalves/SendScriptWhatsAppV2/blob/main/SendScriptWhatsAppV2-Shrek-PT-BR.js)
+Abra o arquvio do filme que desejar de HP.
 
 Copie todo o conteúdo 
 
